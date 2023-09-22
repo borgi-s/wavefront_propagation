@@ -1,2 +1,2 @@
 # wavefront_propagation
-https://github.com/Multiscale-imaging/forward_simulation_polychromatic
+This repository is the updated scripts from https://github.com/Multiscale-imaging/forward_simulation_polychromatic
